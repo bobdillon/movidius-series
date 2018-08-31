@@ -1,0 +1,5 @@
+Be aware - 
+this MUST use a 64bit ubuntu iso. 
+the make files for tensorflow and several programs afterwards are based around pip3. 
+In other words,you should run sudo apt install python3-pip
+before trying to make, and double check your iso, version, or it will fail!
